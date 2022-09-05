@@ -13,6 +13,9 @@ import Cart from "./Cart/Cart";
 // styles
 import { Wrapper, StyledButton } from "./App.styles";
 // Types
+
+
+const test: string = "test"
 export type CartItemType = {
   id: number;
   catergory: string;
